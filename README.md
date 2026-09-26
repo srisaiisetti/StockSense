@@ -1,6 +1,8 @@
 # StockSense
 Build a modular Inventory Management System (IMS) that digitizes and streamlines all stock-related operations within a business. The goal is to replace manual registers, Excel sheets, and scattered tracking methods with a centralized, real-time, easy-to-use app.
-<<<<<<< HEAD
+
+
+
 #This is login page
 =======
 
@@ -90,7 +92,7 @@ Desktop
 Laptop
 Tablet
 Mobile 
->>>>>>> bbb2666428d7a1b9922d4ca635b311f75277a033
+
 #Users
 ======
 StockSense is designed for two primary users:
