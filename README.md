@@ -1,4 +1,5 @@
 # StockSense — Inventory Management System
+
 StockSense is a full-stack Inventory Management System designed to manage stock operations in a simple, centralized, and reliable way.
 
 It helps businesses manage products, warehouses, stock receipts, deliveries, internal transfers, adjustments, and stock history without depending on manual registers or Excel sheets.
