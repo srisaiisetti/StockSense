@@ -1,0 +1,25 @@
+# StockSense Project Requirements
+
+# Backend
+Java 21
+Maven 3.9+
+Spring Boot 4.1.1
+PostgreSQL 18
+
+# Frontend
+Node.js 20+
+npm 10+
+React
+TypeScript
+Vite
+
+# Development / Deployment
+Docker Desktop
+Docker Compose
+Git
+
+# Optional Tools
+Postman
+DBeaver
+IntelliJ IDEA Community Edition
+Visual Studio Code
