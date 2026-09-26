@@ -91,4 +91,9 @@ Laptop
 Tablet
 Mobile 
 >>>>>>> bbb2666428d7a1b9922d4ca635b311f75277a033
-
+#Users
+======
+StockSense is designed for two primary users:
+* **Inventory Managers** – Manage products, incoming and outgoing stock, warehouses, transfers, and inventory adjustments.
+* **Warehouse Staff** – Handle receiving, picking, shelving, stock transfers, physical counting, and day-to-day warehouse operations.
+The system provides role-based access so users can perform the inventory tasks relevant to their responsibilities.
