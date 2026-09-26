@@ -70,6 +70,25 @@ Stock status by warehouse and category
 
 StockSense improves inventory visibility, reduces manual tracking, and maintains a complete history of stock movements.
 
->>>>>>> bbb2666428d7a1b9922d4ca635b311f75277a033
+# Validation
 
+The dashboard should:
+
+Show accurate stock quantities
+Display correct KPI values
+Prevent unauthorized users from accessing restricted data
+Apply filters correctly
+Show appropriate empty states
+Handle API errors gracefully
+Refresh data after stock-changing operations
+Never display negative stock unless explicitly supported by business rules
+Responsive Design
+
+The dashboard should work across:
+
+Desktop
+Laptop
+Tablet
+Mobile 
+>>>>>>> bbb2666428d7a1b9922d4ca635b311f75277a033
 
